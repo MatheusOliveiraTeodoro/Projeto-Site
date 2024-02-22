@@ -4,7 +4,7 @@ const Portfolios = () => {
     return(
         <div>
             <h1> 
-                Obj profissionais 
+                profissionais 
             </h1>
         </div>
     );
